@@ -140,7 +140,7 @@
 				<Connector>
 					<Id>1518201013102</Id>
 					<Name><![CDATA[connector1]]></Name>
-					<X>575</X><Y>44</Y>
+					<X>1330</X><Y>110</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>false</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
@@ -167,13 +167,14 @@
 					</TargetConnectableItemReference>
 					<Points>
 						<Point><X>0</X><Y>0</Y></Point>
-						<Point><X>-64</X><Y>-2</Y></Point>
+						<Point><X>0</X><Y>-50</Y></Point>
+						<Point><X>-90</X><Y>-50</Y></Point>
 					</Points>
 				</Connector>
 				<Connector>
 					<Id>1518207086217</Id>
 					<Name><![CDATA[connector2]]></Name>
-					<X>0</X><Y>0</Y>
+					<X>700</X><Y>80</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>false</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
@@ -199,14 +200,14 @@
 						<ItemName><![CDATA[out]]></ItemName>
 					</TargetConnectableItemReference>
 					<Points>
-						<Point><X>136</X><Y>74</Y></Point>
-						<Point><X>114</X><Y>73</Y></Point>
+						<Point><X>0</X><Y>0</Y></Point>
+						<Point><X>-60</X><Y>0</Y></Point>
 					</Points>
 				</Connector>
 				<Connector>
 					<Id>1518207086221</Id>
 					<Name><![CDATA[connector3]]></Name>
-					<X>0</X><Y>0</Y>
+					<X>600</X><Y>80</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>false</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
@@ -232,14 +233,14 @@
 						<ItemName><![CDATA[out]]></ItemName>
 					</TargetConnectableItemReference>
 					<Points>
-						<Point><X>74</X><Y>73</Y></Point>
-						<Point><X>50</X><Y>69</Y></Point>
+						<Point><X>0</X><Y>0</Y></Point>
+						<Point><X>-70</X><Y>0</Y></Point>
 					</Points>
 				</Connector>
 				<Connector>
 					<Id>1518207594032</Id>
 					<Name><![CDATA[connector4]]></Name>
-					<X>213</X><Y>69</Y>
+					<X>800</X><Y>80</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>false</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
@@ -266,13 +267,13 @@
 					</TargetConnectableItemReference>
 					<Points>
 						<Point><X>0</X><Y>0</Y></Point>
-						<Point><X>-37</X><Y>5</Y></Point>
+						<Point><X>-60</X><Y>0</Y></Point>
 					</Points>
 				</Connector>
 				<Connector>
 					<Id>1518214062890</Id>
 					<Name><![CDATA[connector5]]></Name>
-					<X>310</X><Y>41</Y>
+					<X>930</X><Y>80</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>false</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
@@ -299,13 +300,13 @@
 					</TargetConnectableItemReference>
 					<Points>
 						<Point><X>0</X><Y>0</Y></Point>
-						<Point><X>-57</X><Y>28</Y></Point>
+						<Point><X>-90</X><Y>0</Y></Point>
 					</Points>
 				</Connector>
 				<Connector>
 					<Id>1518214141352</Id>
 					<Name><![CDATA[connector]]></Name>
-					<X>471</X><Y>42</Y>
+					<X>1200</X><Y>60</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>false</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
@@ -332,13 +333,14 @@
 					</TargetConnectableItemReference>
 					<Points>
 						<Point><X>0</X><Y>0</Y></Point>
-						<Point><X>-57</X><Y>-73</Y></Point>
+						<Point><X>0</X><Y>-20</Y></Point>
+						<Point><X>-60</X><Y>-20</Y></Point>
 					</Points>
 				</Connector>
 				<Connector>
 					<Id>1518214141356</Id>
 					<Name><![CDATA[connector6]]></Name>
-					<X>374</X><Y>-31</Y>
+					<X>1100</X><Y>40</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>false</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
@@ -365,13 +367,15 @@
 					</TargetConnectableItemReference>
 					<Points>
 						<Point><X>0</X><Y>0</Y></Point>
-						<Point><X>-44</X><Y>72</Y></Point>
+						<Point><X>-100</X><Y>0</Y></Point>
+						<Point><X>-100</X><Y>40</Y></Point>
+						<Point><X>-150</X><Y>40</Y></Point>
 					</Points>
 				</Connector>
 				<Connector>
 					<Id>1518214258975</Id>
 					<Name><![CDATA[connector7]]></Name>
-					<X>376</X><Y>24</Y>
+					<X>1100</X><Y>80</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>false</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
@@ -398,13 +402,15 @@
 					</TargetConnectableItemReference>
 					<Points>
 						<Point><X>0</X><Y>0</Y></Point>
-						<Point><X>-46</X><Y>37</Y></Point>
+						<Point><X>-100</X><Y>0</Y></Point>
+						<Point><X>-100</X><Y>20</Y></Point>
+						<Point><X>-150</X><Y>20</Y></Point>
 					</Points>
 				</Connector>
 				<Connector>
 					<Id>1518214267796</Id>
 					<Name><![CDATA[connector8]]></Name>
-					<X>416</X><Y>24</Y>
+					<X>1140</X><Y>80</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>false</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
@@ -431,13 +437,14 @@
 					</TargetConnectableItemReference>
 					<Points>
 						<Point><X>0</X><Y>0</Y></Point>
-						<Point><X>55</X><Y>18</Y></Point>
+						<Point><X>60</X><Y>0</Y></Point>
+						<Point><X>60</X><Y>-20</Y></Point>
 					</Points>
 				</Connector>
 				<Connector>
 					<Id>1518223714622</Id>
 					<Name><![CDATA[connector9]]></Name>
-					<X>387</X><Y>76</Y>
+					<X>1100</X><Y>140</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>false</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
@@ -464,13 +471,15 @@
 					</TargetConnectableItemReference>
 					<Points>
 						<Point><X>0</X><Y>0</Y></Point>
-						<Point><X>-57</X><Y>5</Y></Point>
+						<Point><X>-100</X><Y>0</Y></Point>
+						<Point><X>-100</X><Y>-20</Y></Point>
+						<Point><X>-150</X><Y>-20</Y></Point>
 					</Points>
 				</Connector>
 				<Connector>
 					<Id>1518223741297</Id>
 					<Name><![CDATA[connector10]]></Name>
-					<X>420</X><Y>126</Y>
+					<X>1100</X><Y>200</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>false</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
@@ -497,13 +506,15 @@
 					</TargetConnectableItemReference>
 					<Points>
 						<Point><X>0</X><Y>0</Y></Point>
-						<Point><X>-90</X><Y>-25</Y></Point>
+						<Point><X>-100</X><Y>0</Y></Point>
+						<Point><X>-100</X><Y>-60</Y></Point>
+						<Point><X>-150</X><Y>-60</Y></Point>
 					</Points>
 				</Connector>
 				<Connector>
 					<Id>1518223752188</Id>
 					<Name><![CDATA[connector11]]></Name>
-					<X>427</X><Y>76</Y>
+					<X>1140</X><Y>140</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>false</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
@@ -530,13 +541,14 @@
 					</TargetConnectableItemReference>
 					<Points>
 						<Point><X>0</X><Y>0</Y></Point>
-						<Point><X>67</X><Y>23</Y></Point>
+						<Point><X>60</X><Y>0</Y></Point>
+						<Point><X>60</X><Y>30</Y></Point>
 					</Points>
 				</Connector>
 				<Connector>
 					<Id>1518223817393</Id>
 					<Name><![CDATA[connector13]]></Name>
-					<X>0</X><Y>0</Y>
+					<X>1200</X><Y>170</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>false</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
@@ -562,14 +574,15 @@
 						<ItemName><![CDATA[out]]></ItemName>
 					</TargetConnectableItemReference>
 					<Points>
-						<Point><X>494</X><Y>99</Y></Point>
-						<Point><X>460</X><Y>126</Y></Point>
+						<Point><X>0</X><Y>0</Y></Point>
+						<Point><X>0</X><Y>30</Y></Point>
+						<Point><X>-60</X><Y>30</Y></Point>
 					</Points>
 				</Connector>
 				<Connector>
 					<Id>1518223832261</Id>
 					<Name><![CDATA[connector12]]></Name>
-					<X>534</X><Y>99</Y>
+					<X>1240</X><Y>170</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>false</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
@@ -596,7 +609,8 @@
 					</TargetConnectableItemReference>
 					<Points>
 						<Point><X>0</X><Y>0</Y></Point>
-						<Point><X>41</X><Y>-55</Y></Point>
+						<Point><X>90</X><Y>0</Y></Point>
+						<Point><X>90</X><Y>-60</Y></Point>
 					</Points>
 				</Connector>
 			</Connectors>
@@ -722,7 +736,7 @@ startBoarding(f);
 				<EmbeddedObject>
 					<Id>1518200949964</Id>
 					<Name><![CDATA[pedSource]]></Name>
-					<X>20.8</X><Y>69.6</Y>
+					<X>500</X><Y>80</Y>
 					<Label><X>-15</X><Y>-30</Y></Label>
 					<PublicFlag>false</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
@@ -951,7 +965,7 @@ startBoarding(f);
 				<EmbeddedObject>
 					<Id>1518200997052</Id>
 					<Name><![CDATA[gotoGate1]]></Name>
-					<X>471.2</X><Y>32.8</Y>
+					<X>1200</X><Y>50</Y>
 					<Label><X>-10</X><Y>-20</Y></Label>
 					<PublicFlag>false</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
@@ -1053,7 +1067,7 @@ startBoarding(f);
 				<EmbeddedObject>
 					<Id>1518201010683</Id>
 					<Name><![CDATA[pedSink]]></Name>
-					<X>575.2</X><Y>44</Y>
+					<X>1330</X><Y>110</Y>
 					<Label><X>-20</X><Y>-30</Y></Label>
 					<PublicFlag>false</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
@@ -1116,7 +1130,7 @@ startBoarding(f);
 				<EmbeddedObject>
 					<Id>1518206358431</Id>
 					<Name><![CDATA[pedService]]></Name>
-					<X>136.8</X><Y>64</Y>
+					<X>700</X><Y>70</Y>
 					<Label><X>-15</X><Y>-20</Y></Label>
 					<PublicFlag>false</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
@@ -1225,7 +1239,7 @@ startBoarding(f);
 				<EmbeddedObject>
 					<Id>1518206956280</Id>
 					<Name><![CDATA[checkIn]]></Name>
-					<X>74.4</X><Y>63.2</Y>
+					<X>600</X><Y>70</Y>
 					<Label><X>-15</X><Y>-20</Y></Label>
 					<PublicFlag>false</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
@@ -1334,7 +1348,7 @@ startBoarding(f);
 				<EmbeddedObject>
 					<Id>1518207592356</Id>
 					<Name><![CDATA[pedWait]]></Name>
-					<X>213.6</X><Y>59.2</Y>
+					<X>800</X><Y>70</Y>
 					<Label><X>-10</X><Y>-20</Y></Label>
 					<PublicFlag>false</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
@@ -1464,7 +1478,7 @@ startBoarding(f);
 				<EmbeddedObject>
 					<Id>1518214057948</Id>
 					<Name><![CDATA[pedSelectOutput]]></Name>
-					<X>300.2</X><Y>41.2</Y>
+					<X>920</X><Y>80</Y>
 					<Label><X>-35</X><Y>-30</Y></Label>
 					<PublicFlag>false</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
@@ -1593,7 +1607,7 @@ startBoarding(f);
 				<EmbeddedObject>
 					<Id>1518214139331</Id>
 					<Name><![CDATA[busBoard]]></Name>
-					<X>374.4</X><Y>-41.6</Y>
+					<X>1100</X><Y>30</Y>
 					<Label><X>-15</X><Y>-20</Y></Label>
 					<PublicFlag>false</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
@@ -1702,7 +1716,7 @@ startBoarding(f);
 				<EmbeddedObject>
 					<Id>1518214257369</Id>
 					<Name><![CDATA[ecoBoard]]></Name>
-					<X>376</X><Y>14.4</Y>
+					<X>1100</X><Y>70</Y>
 					<Label><X>-15</X><Y>-20</Y></Label>
 					<PublicFlag>false</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
@@ -1921,7 +1935,7 @@ startBoarding(f);
 				<EmbeddedObject>
 					<Id>1518223712169</Id>
 					<Name><![CDATA[busBoard2]]></Name>
-					<X>387.2</X><Y>66.4</Y>
+					<X>1100</X><Y>130</Y>
 					<Label><X>-15</X><Y>-20</Y></Label>
 					<PublicFlag>false</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
@@ -2026,7 +2040,7 @@ startBoarding(f);
 				<EmbeddedObject>
 					<Id>1518223740082</Id>
 					<Name><![CDATA[ecoBoard2]]></Name>
-					<X>420</X><Y>116.8</Y>
+					<X>1100</X><Y>190</Y>
 					<Label><X>-15</X><Y>-20</Y></Label>
 					<PublicFlag>false</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
@@ -2131,7 +2145,7 @@ startBoarding(f);
 				<EmbeddedObject>
 					<Id>1518223815352</Id>
 					<Name><![CDATA[pedGoTo]]></Name>
-					<X>494.4</X><Y>89.6</Y>
+					<X>1200</X><Y>160</Y>
 					<Label><X>-10</X><Y>-20</Y></Label>
 					<PublicFlag>false</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
@@ -2554,7 +2568,7 @@ startBoarding(f);
 				<Control Type="Window3D">
 					<Id>1518201487397</Id>
 					<Name><![CDATA[window3d]]></Name>
-					<X>160</X><Y>600</Y>
+					<X>810</X><Y>240</Y>
 					<Width>500</Width>
 					<Height>300</Height>
 					<MakeDefaultViewArea>true</MakeDefaultViewArea>
@@ -2657,9 +2671,12 @@ startBoarding(f);
 						<Point><X>670</X><Y>-5</Y><Z>0</Z></Point>
 						<Point><X>670</X><Y>0</Y><Z>0</Z></Point>
 						<Point><X>670</X><Y>25</Y><Z>0</Z></Point>
-						<Point><X>645</X><Y>0</Y><Z>0</Z></Point>
+						<Point><X>645</X><Y>-0.062</Y><Z>0</Z></Point>
+						<Point><X>350</X><Y>-0.8</Y><Z>0</Z></Point>
+						<Point><X>375</X><Y>-0.738</Y><Z>0</Z></Point>
+						<Point><X>325</X><Y>-0.743</Y><Z>0</Z></Point>
 						<Point><X>0</X><Y>0</Y><Z>0</Z></Point>
-						<Point><X>25</X><Y>0</Y><Z>0</Z></Point>
+						<Point><X>25</X><Y>-0.057</Y><Z>0</Z></Point>
 						<Point><X>650</X><Y>0</Y><Z>0</Z></Point>
 					</Points>
 				</Wall>
@@ -4534,7 +4551,7 @@ startBoarding(f);
 	<RelativeAccuracy>1.0E-5</RelativeAccuracy>
 	<TimeAccuracy>1.0E-5</TimeAccuracy>
 	<Frame>
-		<Width>1000</Width>
+		<Width>1380</Width>
 		<Height>600</Height>
 	</Frame>
 	<Database>
@@ -4663,6 +4680,226 @@ getExperimentHost().setPresentable( getEngine().getRoot() );]]></ActionCode>
 	"Top level agent"]]></LabelCode>
 					</ExtendedProperties>
 				</Control>
+				<Control Type="Slider">
+				 	<EmbeddedIcon>false</EmbeddedIcon>				
+					<Id>1715870009349</Id>
+					<Name><![CDATA[CantEmpleadosCheckIn]]></Name>
+					<X>360</X><Y>160</Y>
+					<Label><X>0</X><Y>-10</Y></Label>
+					<PublicFlag>true</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+					<BasicProperties Width="100" Height="30">
+                        <EmbeddedIcon>false</EmbeddedIcon>	
+						<Enabled>true</Enabled>
+					</BasicProperties>
+					<ExtendedProperties>
+						<DefaultValueCode><![CDATA[1]]></DefaultValueCode>
+						<Orientation>HORIZONTAL</Orientation>
+						<MinValue><![CDATA[1]]></MinValue>
+						<MaxValue><![CDATA[4]]></MaxValue>
+						<LinkTo>false</LinkTo>
+					</ExtendedProperties>
+				</Control>
+				<Control Type="Slider">
+				 	<EmbeddedIcon>false</EmbeddedIcon>				
+					<Id>1715870079902</Id>
+					<Name><![CDATA[CantEmpleadosMigraciones]]></Name>
+					<X>360</X><Y>240</Y>
+					<Label><X>0</X><Y>-10</Y></Label>
+					<PublicFlag>true</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+					<BasicProperties Width="100" Height="30">
+                        <EmbeddedIcon>false</EmbeddedIcon>	
+						<Enabled>true</Enabled>
+					</BasicProperties>
+					<ExtendedProperties>
+						<DefaultValueCode><![CDATA[1]]></DefaultValueCode>
+						<Orientation>HORIZONTAL</Orientation>
+						<MinValue><![CDATA[1]]></MinValue>
+						<MaxValue><![CDATA[3]]></MaxValue>
+						<LinkTo>false</LinkTo>
+					</ExtendedProperties>
+				</Control>
+				<Text>
+					<Id>1715870146855</Id>
+					<Name><![CDATA[EmpladosCheckIn]]></Name>
+					<X>60</X><Y>170</Y>
+					<Label><X>0</X><Y>-10</Y></Label>
+					<PublicFlag>true</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<DrawMode>SHAPE_DRAW_2D</DrawMode>
+					<EmbeddedIcon>false</EmbeddedIcon>
+					<Z>0</Z>
+					<Rotation>0.0</Rotation>
+					<Color>-16777216</Color>
+					<Text><![CDATA[Cantidad de empleados en Check In]]></Text>
+					<Font>
+						<Name>SansSerif</Name>
+						<Size>10</Size>
+						<Style>0</Style>
+					</Font>
+					<Alignment>LEFT</Alignment>
+				</Text>
+				<Text>
+					<Id>1715870231314</Id>
+					<Name><![CDATA[EmpladosMigraciones]]></Name>
+					<X>60</X><Y>250</Y>
+					<Label><X>0</X><Y>-10</Y></Label>
+					<PublicFlag>true</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<DrawMode>SHAPE_DRAW_2D</DrawMode>
+					<EmbeddedIcon>false</EmbeddedIcon>
+					<Z>0</Z>
+					<Rotation>0.0</Rotation>
+					<Color>-16777216</Color>
+					<Text><![CDATA[Cantidad de empleados en Migraciones]]></Text>
+					<Font>
+						<Name>SansSerif</Name>
+						<Size>10</Size>
+						<Style>0</Style>
+					</Font>
+					<Alignment>LEFT</Alignment>
+				</Text>
+				<Text>
+					<Id>1715870263112</Id>
+					<Name><![CDATA[EmpladosSeguridad]]></Name>
+					<X>60</X><Y>210</Y>
+					<Label><X>0</X><Y>-10</Y></Label>
+					<PublicFlag>true</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<DrawMode>SHAPE_DRAW_2D</DrawMode>
+					<EmbeddedIcon>false</EmbeddedIcon>
+					<Z>0</Z>
+					<Rotation>0.0</Rotation>
+					<Color>-16777216</Color>
+					<Text><![CDATA[Cantidad de empleados en Control de Seguridad]]></Text>
+					<Font>
+						<Name>SansSerif</Name>
+						<Size>10</Size>
+						<Style>0</Style>
+					</Font>
+					<Alignment>LEFT</Alignment>
+				</Text>
+				<Control Type="Slider">
+				 	<EmbeddedIcon>false</EmbeddedIcon>				
+					<Id>1715870290003</Id>
+					<Name><![CDATA[CantEmpleadosSeguridad]]></Name>
+					<X>360</X><Y>200</Y>
+					<Label><X>0</X><Y>-10</Y></Label>
+					<PublicFlag>true</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+					<BasicProperties Width="100" Height="30">
+                        <EmbeddedIcon>false</EmbeddedIcon>	
+						<Enabled>true</Enabled>
+					</BasicProperties>
+					<ExtendedProperties>
+						<DefaultValueCode><![CDATA[1]]></DefaultValueCode>
+						<Orientation>HORIZONTAL</Orientation>
+						<MinValue><![CDATA[1]]></MinValue>
+						<MaxValue><![CDATA[5]]></MaxValue>
+						<LinkTo>false</LinkTo>
+					</ExtendedProperties>
+				</Control>
+				<Text>
+					<Id>1715870326229</Id>
+					<Name><![CDATA[EmpladosBoarding]]></Name>
+					<X>60</X><Y>290</Y>
+					<Label><X>0</X><Y>-10</Y></Label>
+					<PublicFlag>true</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<DrawMode>SHAPE_DRAW_2D</DrawMode>
+					<EmbeddedIcon>false</EmbeddedIcon>
+					<Z>0</Z>
+					<Rotation>0.0</Rotation>
+					<Color>-16777216</Color>
+					<Text><![CDATA[Cantidad de empleados en Boarding]]></Text>
+					<Font>
+						<Name>SansSerif</Name>
+						<Size>10</Size>
+						<Style>0</Style>
+					</Font>
+					<Alignment>LEFT</Alignment>
+				</Text>
+				<Control Type="Slider">
+				 	<EmbeddedIcon>false</EmbeddedIcon>				
+					<Id>1715870342216</Id>
+					<Name><![CDATA[CantEmpleadosMigraciones1]]></Name>
+					<X>360</X><Y>280</Y>
+					<Label><X>0</X><Y>-10</Y></Label>
+					<PublicFlag>true</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+					<BasicProperties Width="100" Height="30">
+                        <EmbeddedIcon>false</EmbeddedIcon>	
+						<Enabled>true</Enabled>
+					</BasicProperties>
+					<ExtendedProperties>
+						<DefaultValueCode><![CDATA[1]]></DefaultValueCode>
+						<Orientation>HORIZONTAL</Orientation>
+						<MinValue><![CDATA[1]]></MinValue>
+						<MaxValue><![CDATA[2]]></MaxValue>
+						<LinkTo>false</LinkTo>
+					</ExtendedProperties>
+				</Control>
+				<Control Type="RadioButtons">
+				 	<EmbeddedIcon>false</EmbeddedIcon>				
+					<Id>1715870377057</Id>
+					<Name><![CDATA[MetodoEmbarque]]></Name>
+					<X>370</X><Y>330</Y>
+					<Label><X>0</X><Y>-10</Y></Label>
+					<PublicFlag>true</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+					<BasicProperties Width="150" Height="140">
+                        <EmbeddedIcon>false</EmbeddedIcon>	
+						<TextColor/>
+						<Enabled>true</Enabled>
+					</BasicProperties>
+					<ExtendedProperties>
+						<Font Name="Dialog" Size="11" Style="0"/>
+						<Orientation>VERTICAL</Orientation>
+						<Button><![CDATA[Aleatorio]]></Button>
+						<Button><![CDATA[WILMA]]></Button>
+						<Button><![CDATA[AtrasAAdelante]]></Button>
+						<Button><![CDATA[PiramideInvertida]]></Button>
+						<Button><![CDATA[Bloques]]></Button>
+						<Button><![CDATA[Steffen]]></Button>
+						<LinkTo>false</LinkTo>
+					</ExtendedProperties>
+				</Control>
+				<Text>
+					<Id>1715870530206</Id>
+					<Name><![CDATA[MetodoEmbarque1]]></Name>
+					<X>60</X><Y>340</Y>
+					<Label><X>0</X><Y>-10</Y></Label>
+					<PublicFlag>true</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<DrawMode>SHAPE_DRAW_2D</DrawMode>
+					<EmbeddedIcon>false</EmbeddedIcon>
+					<Z>0</Z>
+					<Rotation>0.0</Rotation>
+					<Color>-16777216</Color>
+					<Text><![CDATA[Cantidad de empleados en Metodo de Embarque]]></Text>
+					<Font>
+						<Name>SansSerif</Name>
+						<Size>10</Size>
+						<Style>0</Style>
+					</Font>
+					<Alignment>LEFT</Alignment>
+				</Text>
 			</Presentation>
 
 			<Parameters>			
